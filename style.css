@@ -1,0 +1,62 @@
+body{
+  margin: 0;
+padding: 0;
+font-family: sans-serif;
+background: url("https://cdn.pixabay.com/photo/2017/06/30/09/04/system-2457648__340.jpg");
+}
+.signup-form{
+ width: 300px;
+background: white;
+  padding: 20px;
+  margin-top: 5%;
+  margin-left: 30%;
+  text-align: center;
+}
+.signup-form h1{
+color: #2189b9;
+margin-bottom: 30px;
+}
+.input-box{
+ border-radius: 20px;
+padding: 10px;
+margin: 10px 0;
+width: 80%;
+border: 1px solid #999;
+outline: none;
+}
+
+button{
+color: #fff;
+border-radius: 20px;
+padding: 10px;
+margin: 10px 0;
+font-size: 15px;
+font-family: sans-serif;
+width: 100%;
+cursor: pointer;
+outline: none;
+}
+.signup-btn{
+background: rgb(16, 187, 230);
+}
+.twit-btn{
+  background:rgba(20, 152, 240, 0.822);
+}
+a{
+text-decoration: none;
+}
+hr{
+margin-top: 20px;
+width: 80%;
+}
+.or{
+ background: #fff;
+width: 20px;
+margin: -19px auto 10px;
+}
+img{
+ width: 90px;
+margin-top: -50%;
+}
+
+
